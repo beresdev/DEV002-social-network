@@ -59,4 +59,5 @@ export const timeline = () => {
   main.appendChild(section3);
 
   footer.appendChild(signOut);
+  footer.className = 'footer-timeline';
 };

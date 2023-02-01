@@ -105,3 +105,10 @@
     position: relative;
     top: 8px;
 }
+footer{
+    justify-content: center;
+    position: absolute;
+}
+.text-footer{
+    text-align: center;
+}
