@@ -36,7 +36,7 @@ template('inicioDeSesion', () => { // Se crea una función anónima
   });
 });
 
-   //ESTA ES
+//ESTA ES
 // const signIn = document.getElementById('enviar');
 
 // function login(e) {

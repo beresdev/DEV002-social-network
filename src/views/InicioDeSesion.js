@@ -89,6 +89,7 @@ export const inicioDeSesion = () => {
   main.appendChild(sectionD);
 
   pFooter.innerText = 'Desarrollado por y para Laboratorians';
+  pFooter.className = 'text-footer'
 
   footer.appendChild(pFooter);
 };
